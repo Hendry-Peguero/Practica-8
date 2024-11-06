@@ -1,5 +1,2 @@
-# Ignorar el archivo .vagrant
 .vagrant/
-
-# Ignorar el archivo ubuntu-bionic-18.04-cloudimg-console
 ubuntu-bionic-18.04-cloudimg-console
